@@ -1,7 +1,8 @@
 # 🐛 GitHub Issues Tracker
 
 A clean, responsive GitHub Issues Management Dashboard built with HTML, Tailwind CSS, DaisyUI, and Vanilla JavaScript.
-
+* login page
+![GitHub Issues Tracker Screenshot](images/login_page.jpg)
 ![GitHub Issues Tracker Screenshot](images/main_page.jpg)
 
 ## 🚀 Live Demo
