@@ -2,7 +2,11 @@
 
 A clean, responsive GitHub Issues Management Dashboard built with HTML, Tailwind CSS, DaisyUI, and Vanilla JavaScript.
 
+![GitHub Issues Tracker Screenshot](images/main_page.jpg)
+
 ## 🚀 Live Demo
+
+> [Open Live Demo](https://kabir21hossain.github.io/demo-theme-project-api-fetching-/)
 
 > Deploy to GitHub Pages, Netlify, or Vercel — open `index.html` to start.
 
@@ -170,5 +174,4 @@ You can put any JavaScript expression inside `${}` — variables, function calls
 ## 📤 Submission
 
 - **GitHub Repository Link:** _(add your repo URL here)_
-- **Live Site Link:** _(add your live site URL here)_
-# demo-theme-project-api-fetching-
+- **Live Site Link:** https://kabir21hossain.github.io/demo-theme-project-api-fetching-/
